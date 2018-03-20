@@ -1,7 +1,7 @@
 ![Karumi logo][karumilogo] Kata Maxibon for Scala. ![Build Status](https://travis-ci.org/delr3ves/MaxibonKataScala.svg?branch=master) ![Coverage](https://coveralls.io/repos/github/delr3ves/MaxibonKataScala/badge.svg?branch=master) 
 ==================================================
 
-This is the Scala implementation for the Original (Karumi's Maxibon Kata)[https://github.com/Karumi/MaxibonKataJava].
+This is the Scala implementation for the Original [Karumi's Maxibon Kata](https://github.com/Karumi/MaxibonKataJava).
 
 - We are here to practice [property based testing][property-based-testing].
 - We are going to use [Scalatest][scalatest] to write our tests.
