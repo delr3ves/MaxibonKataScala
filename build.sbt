@@ -11,3 +11,5 @@ logBuffered in Test := false
 
 
 addCommandAlias("format", ";scalafmt;test:scalafmt")
+
+addCommandAlias("check-format", ";scalafmt::test;test:scalafmt::test")
